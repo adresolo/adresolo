@@ -1,6 +1,6 @@
 ## Hi, I'm Andrey 👋
 
-I'm a **Machine Learning Engineer** with a passion for building intelligent systems and solving complex problems with data. Welcome to my GitHub page!
+I'm a **Machine Learning Engineer** with a passion for building intelligent systems and solving complex problems with data.
 
 ### About Me
 
@@ -15,8 +15,6 @@ I'm a **Machine Learning Engineer** with a passion for building intelligent syst
 - **Computer Vision**: Passionate about teaching machines to see and interpret the world as we do, from image classification to object detection and beyond.
 
 ### Get in Touch
-
-Feel free to reach out if you'd like to collaborate on a project, discuss the latest advancements in AI, or just chat about machine learning in general!
 
 - **Email**: [sologub.a@mailbox.org](mailto:sologub.a@mailbox.org)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/adresolo/)
